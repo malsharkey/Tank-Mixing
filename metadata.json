@@ -1,0 +1,5 @@
+{
+  "name": "Tank Mixing Design Tool",
+  "description": "A Tier-1 heuristic engineering tool for evaluating vertical destratification and horizontal short-circuit risks in water storage tanks.",
+  "requestFramePermissions": []
+}
